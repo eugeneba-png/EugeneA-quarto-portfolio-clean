@@ -1,0 +1,15 @@
+#"Add Quarto portfolio with matplotlib visualizations"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+as-is
+# On branch main
+# Your branch and 'origin/main' have diverged,
+# and have 2 and 1 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# Changes to be committed:
+#	modified:   index.html
+#
+# Changes not staged for commit:
+#	modified:   EugeneA-quarto-portfolio (untracked content)
+#
